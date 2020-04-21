@@ -1,0 +1,1 @@
+CREATE TABLE recipes(ingredient VARCHAR(32), quantity VARCHAR(32), address VARCHAR(64));
